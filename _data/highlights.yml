@@ -1,21 +1,77 @@
-- id: world-labs-dec2024
-  title: "Generating Worlds"
-  organization: "World Labs"
-  date: "December 2024"
-  description: "Transform a single image into an explorable 3D world using generative AI."
-  url: "https://www.worldlabs.ai/blog"
-  image: "world-labs.jpg"
-  video: "worldlabs-dec2.mp4"
-
-- id: google-3d-shopping-may2025
-  title: "Generating 3D Products"
-  organization: "Google Research"
-  date: "May 2025"
-  description: "Transform a few photos into interactive 3D shopping experiences using generative AI."
-  url: "https://research.google/blog/bringing-3d-shoppable-products-online-with-generative-ai/"
-  image: "google-3d-shopping.jpg"
-  video: "google-3d-products.mp4"
+- id: holographic-ar-nature-2024
+  title: "Holographic AR Glasses with Metasurface Waveguides"
+  organization: "NVIDIA & Stanford"
+  date: "May 2024"
+  description: "A near-eye display design that pairs inverse-designed metasurface waveguides with AI-driven holographic displays to enable full-colour 3D augmented reality from a compact glasses-like form factor."
+  url: "https://www.nature.com/articles/s41586-024-07386-0"
+  image: "holographic_ar.jpg"
+  video: "holographic_ar.mp4"
   tags:
-    - "Generative AI"
-    - "3D Reconstruction"
-    - "Computer Vision"
+    - "Holographic Displays"
+    - "Augmented Reality"
+    - "Metasurfaces"
+
+- id: holographic-glasses-vr-2022
+  title: "Holographic Glasses for Virtual Reality - 2.5 mm-thick, 3D holographic VR display"
+  organization: "NVIDIA & Stanford"
+  date: "July 2022"
+  description: "Holographic Glasses is a holographic near-eye display system with an eyeglasses-like form factor for virtual reality. The proposed design can deliver full-color 3D holographic images using an optical stack of 2.5 mm thickness."
+  url: "https://dl.acm.org/doi/10.1145/3528233.3530739"
+  image: "holographic_glasses.jpg"
+  video: "holographic_glasses.mp4"
+  tags:
+    - "Virtual Reality"
+    - "Holographic Displays"
+    - "Near-eye Displays"
+
+- id: neural-holography-2020
+  title: "Neural Holography and Camera-in-the-loop Training"
+  organization: "Stanford"
+  date: "December 2020"
+  description: "Neural Holography is an algorithmic CGH framework that uses camera-in-the-loop training to achieve unprecedented image fidelity and real-time frame rates. A precise light propagation function of any holographic displays can be trained with data pairs."
+  url: "https://dl.acm.org/doi/10.1145/3414685.3417846"
+  image: "neural_holography.jpg"
+  video: "neural_holography.mp4"
+  tags:
+    - "Neural Networks"
+    - "Computer Graphics"
+    - "Holographic Displays"
+
+- id: prescription-ar-2019
+  title: "Prescription AR and ModulAR - A fully-customized prescription-embedded AR display"
+  organization: "NVIDIA"
+  date: "July 2019"
+  description: "This project presents a fully-customized AR display design that considers the user's prescription, interpupillary distance, and taste of fashion. A free-form image combiner embedded inside the prescription lens provides augmented images."
+  url: "https://dl.acm.org/doi/10.1145/3306346.3323016"
+  image: "prescription_ar.jpg"
+  video: "prescription_ar.mp4"
+  tags:
+    - "Augmented Reality"
+    - "Prescription Optics"
+    - "Near-eye Displays"
+
+- id: foveated-ar-2019
+  title: "Foveated AR - Dynamically-Foveated AR Display"
+  organization: "NVIDIA"
+  date: "July 2019"
+  description: "AR display system that advances the state of the art for simultaneous wide FOV (100° diagonal), compact form factor, high foveal resolution (60 cpd), variable focus display and rendering, and large eyebox (12 mm × 8 mm)."
+  url: "https://dl.acm.org/doi/10.1145/3306346.3323017"
+  image: "foveated_ar.jpg"
+  video: "foveated_ar.mp4"
+  tags:
+    - "Augmented Reality"
+    - "Foveated Rendering"
+    - "Eye Tracking"
+
+- id: retinal-3d-2017
+  title: "Retinal 3D - A large FOV 3D Virtual Retinal Display for AR"
+  organization: "Seoul National University"
+  date: "November 2017"
+  description: "Retinal 3D provides virtual images with focus cues by generating a localized light field around the pupil position with real-time eye-tracking. A reflective HOE lens was used as a transparent image combiner."
+  url: "https://dl.acm.org/doi/10.1145/3130800.3130889"
+  image: "retinal_3d.jpg"
+  video: "retinal_3d.mp4"
+  tags:
+    - "Virtual Retinal Display"
+    - "Light Field"
+    - "Eye Tracking"

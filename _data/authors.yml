@@ -1,52 +1,138 @@
-byoungholee:
-  first_name: Byoungho
-  last_name: Lee
-  website: "https://ece.snu.ac.kr/people/lee"
+jkim:
+  first_name: Jonghyun
+  last_name: Kim
+  website: "https://research.nvidia.com/person/jonghyun-kim/"
+  is_me: true
 
-gordonwetzstein:
+gwetzstein:
   first_name: Gordon
   last_name: Wetzstein
   website: "https://wetzstein.org"
 
-suyeonchoi:
-  first_name: Suyeon
-  last_name: Choi
-  website: "https://suyeonchoi.com"
-
-changwonjang:
-  first_name: Changwon
-  last_name: Jang
-  website: "https://www.linkedin.com/in/changwonjang"  # Meta Reality Labs
-
-youngmojeong:
-  first_name: Youngmo
-  last_name: Jeong
-  website: "https://kr.linkedin.com/in/ymjeong"  # Samsung Electronics 
-
-kaanaksit:
-  first_name: Kaan
-  last_name: Akşit
-  website: "https://www.kaanaksit.com/"  # UCL 
-
-yifanpeng:
-  first_name: Yifan
-  last_name: Peng
-  website: "https://pengyifan.com/"
-
-davidluebke:
-  first_name: David
-  last_name: Luebke
-  website: "https://luebke.us/"
-
-manugopakumar:
+mgopakumar:
   first_name: Manu
   last_name: Gopakumar
   website: "https://manugopa.github.io/"
 
-wardlopes:
+schoi:
+  first_name: Suyeon
+  last_name: Choi
+  website: "https://suyeonchoi.com"
+
+ypeng:
+  first_name: Yifan
+  last_name: Peng
+  website: "https://pengyifan.com/"
+
+gylee:
+  first_name: Gun-Yeal
+  last_name: Lee
+  website: ""
+
+bchao:
+  first_name: Brian
+  last_name: Chao
+  website: ""
+
+wlopes:
   first_name: Ward
   last_name: Lopes
   website: "https://research.nvidia.com/person/ward-lopes"
+
+motoole:
+  first_name: Matthew
+  last_name: O'Toole
+  website: "https://www.cs.cmu.edu/~motoole/"
+
+jywu:
+  first_name: Jui-Yi
+  last_name: Wu
+  website: "https://www.linkedin.com/in/daronwu"
+
+yjeong:
+  first_name: Youngmo
+  last_name: Jeong
+  website: "https://kr.linkedin.com/in/ymjeong"
+
+mstengel:
+  first_name: Michael
+  last_name: Stengel
+  website: "https://research.nvidia.com/person/michael-stengel"
+
+kaksit:
+  first_name: Kaan
+  last_name: Akşit
+  website: "https://www.kaanaksit.com/"
+
+ralbert:
+  first_name: Rachel
+  last_name: Albert
+  website: ""
+
+bboudaoud:
+  first_name: Ben
+  last_name: Boudaoud
+  website: "https://research.nvidia.com/person/ben-boudaoud"
+
+tgreer:
+  first_name: Trey
+  last_name: Greer
+  website: ""
+
+jkim2:
+  first_name: Joohwan
+  last_name: Kim
+  website: ""
+
+zmajercik:
+  first_name: Zander
+  last_name: Majercik
+  website: ""
+
+pshirley:
+  first_name: Peter
+  last_name: Shirley
+  website: ""
+
+jspjut:
+  first_name: Josef
+  last_name: Spjut
+  website: "https://research.nvidia.com/person/josef-spjut"
+
+mmcguire:
+  first_name: Morgan
+  last_name: McGuire
+  website: ""
+
+dluebke:
+  first_name: David
+  last_name: Luebke
+  website: "https://luebke.us/"
+
+cjang:
+  first_name: Changwon
+  last_name: Jang
+  website: "https://www.linkedin.com/in/changwonjang"
+
+kbang:
+  first_name: Kiseung
+  last_name: Bang
+  website: "https://www.linkedin.com/in/kiseung-bang-007aa8125/"
+
+smoon:
+  first_name: Seokil
+  last_name: Moon
+  website: "https://scholar.google.com/citations?user=CQlzATQAAAAJ&hl=en"
+
+slee:
+  first_name: Seungjae
+  last_name: Lee
+  website: "https://www.linkedin.com/in/seungjae-lee-2a28b31ab/"
+
+blee:
+  first_name: Byoungho
+  last_name: Lee
+  website: "https://ece.snu.ac.kr/people/lee"
 
 keehoonhong:
   first_name: Keehoon

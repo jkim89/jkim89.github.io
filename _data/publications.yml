@@ -1,136 +1,158 @@
-- id: illuminerf
-  title: "IllumiNeRF 3D Relighting without Inverse Rendering"
-  venue: NeurIPS, 2024
-  description: "3D relighting by distilling samples from a 2D image relighting diffusion model into a latent-variable NeRF."
-  project_page: https://illuminerf.github.io
-  arxiv: 2406.06527
-  image: illuminerf_before.jpg
-  image_mouseover: illuminerf_after.mp4
+- id: holographic_ar_nature
+  title: "Full-colour 3D holographic augmented-reality displays with metasurface waveguides"
+  venue: Nature, 2024
+  description: "A near-eye display design that pairs inverse-designed metasurface waveguides with AI-driven holographic displays to enable full-colour 3D augmented reality from a compact glasses-like form factor."
+  project_page: 
+  arxiv: 
+  image: 
+  image_mouseover: 
   authors:
-    - xiaomingzhao
-    - pratuls
-    - dorverbin
-    - keunhong
-    - rmbrualla
-    - phenzler
-- id: reconfusion
-  title: "ReconFusion: 3D Reconstruction with Diffusion Priors"
-  venue: CVPR, 2024
-  description: "Using an multi-view image conditioned diffusion model to regularize a NeRF enabled few-view reconstruction."
-  project_page: https://reconfusion.github.io
-  arxiv: 2312.02981
-  image: reconfusion_before.png
-  image_mouseover: reconfusion_after.mp4
-  authors:
-    - rundiwu
-    - bmild
-    - phenzler
-    - keunhong
-    - ruiqigao
-    - danielwatson
-    - pratuls
-    - dorverbin
-    - barron
-    - pooleb
-    - holynski
-- id: hypernerf
-  title: "CamP: Camera Preconditioning for Neural Radiance Fields"
-  venue: SIGGRAPH Asia, 2023
-  description: "Preconditioning camera optimization during NeRF training significantly improves their ability to jointly recover the scene and camera parameters."
-  project_page: "https://camp-nerf.github.io"
-  github: jonbarron/camp_zipnerf
-  arxiv: 2308.10902
-  image: camp_before.jpg
-  image_mouseover: camp_after.mp4
-  authors:
-    - keunhong
-    - phenzler
-    - bmild
-    - barron
-    - rmbrualla
-  awards:
-    - "Journal Paper"
+    - mgopakumar
+    - gylee
+    - schoi
+    - bchao
+    - ypeng
+    - jkim
+    - gwetzstein
 
-- id: hypernerf
-  title: "HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields"
+- id: holographic_glasses_vr
+  title: "Holographic Glasses for Virtual Reality"
+  venue: SIGGRAPH, 2022
+  description: "Holographic Glasses is a holographic near-eye display system with an eyeglasses-like form factor for virtual reality. The proposed design can deliver full-color 3D holographic images using an optical stack of 2.5 mm thickness."
+  project_page: 
+  arxiv: 
+  image: 
+  image_mouseover: 
+  authors:
+    - jkim
+    - mgopakumar
+    - schoi
+    - ypeng
+    - wlopes
+    - gwetzstein
+
+- id: time_multiplexed_neural
+  title: "Time-multiplexed Neural Holography: A Flexible Framework for Holographic Near-eye Displays with Fast Heavily-quantized Spatial Light Modulators"
+  venue: SIGGRAPH, 2022
+  description: "A flexible framework for holographic displays that enables fast frame rates with heavily quantized spatial light modulators."
+  project_page: 
+  arxiv: 
+  image: 
+  image_mouseover: 
+  authors:
+    - schoi
+    - mgopakumar
+    - ypeng
+    - jkim
+    - motoole
+    - gwetzstein
+
+- id: unfiltered_holography
+  title: "Unfiltered holography: optimizing high diffraction orders without optical filtering for compact holographic displays"
+  venue: Optics Letters, 2021
+  description: "Optimization of high diffraction orders without optical filtering for compact holographic displays."
+  project_page: 
+  arxiv: 
+  image: 
+  image_mouseover: 
+  authors:
+    - mgopakumar
+    - jkim
+    - schoi
+    - ypeng
+    - gwetzstein
+
+- id: speckle_free
+  title: "Speckle-free holography with partially coherent light sources and camera-in-the-loop calibration"
+  venue: Science Advances, 2021
+  description: "Achieving unprecedented holographic image quality with better computation using camera-in-the-loop training."
+  project_page: 
+  arxiv: 
+  image: 
+  image_mouseover: 
+  authors:
+    - ypeng
+    - schoi
+    - jkim
+    - gwetzstein
+
+- id: neural_3d_holography
+  title: "Neural 3D Holography: Learning Accurate Wave Propagation Models for 3D Holographic Virtual and Augmented Reality Displays"
   venue: SIGGRAPH Asia, 2021
-  description: "By applying ideas from level set methods, we can represent topologically changing scenes with NeRFs."
-  project_page: "https://hypernerf.github.io"
-  github: google/hypernerf
-  arxiv: 2106.13228
-  image: hypernerf_before.jpg
-  image_mouseover: hypernerf_after.mp4
+  description: "Learning accurate wave propagation models for 3D holographic displays using neural networks."
+  project_page: 
+  arxiv: 
+  image: 
+  image_mouseover: 
   authors:
-    - keunhong
-    - utsinh
-    - hedman
-    - barron
-    - sofien
-    - dgo
-    - rmbrualla
-    - smseitz
+    - schoi
+    - mgopakumar
+    - ypeng
+    - jkim
+    - gwetzstein
 
-- id: fignerf
-  title: "FiG-NeRF: Figure Ground Neural Radiance Fields for 3D Object Category Modelling "
-  venue: 3DV, 2021
-  description: "Given a lot of images of an object category, you can train a NeRF to render them from novel views and interpolate between different instances."
-  project_page: "https://fig-nerf.github.io"
-  arxiv: 2104.08418
-  image: fignerf_before.jpg
-  image_mouseover: fignerf_after.mp4
+- id: michelson_holography
+  title: "Optimizing image quality for holographic near-eye displays with Michelson Holography"
+  venue: Optica, 2021
+  description: "Optimizing image quality for holographic near-eye displays using Michelson holography techniques."
+  project_page: 
+  arxiv: 
+  image: 
+  image_mouseover: 
   authors:
-    - chrisxie
-    - keunhong
-    - rmbrualla
-    - mtbr
+    - schoi
+    - jkim
+    - ypeng
+    - gwetzstein
 
-- id: nerfies
-  title: "Nerfies: Deformable Neural Radiance Fields"
-  venue: ICCV, 2021
-  description: "Learning deformation fields with a NeRF let's you reconstruct non-rigid scenes with high fidelity."
-  project_page: "https://nerfies.github.io"
-  github: google/nerfies
-  arxiv: 2011.12948
-  image: nerfies_before.jpg
-  image_mouseover: nerfies_after.mp4
+- id: prescription_ar
+  title: "Prescription AR: a fully-customized prescription-embedded augmented reality display"
+  venue: Optics Express, 2020
+  description: "A fully-customized AR display design that considers the user's prescription, interpupillary distance, and taste of fashion. A free-form image combiner embedded inside the prescription lens provides augmented images."
+  project_page: 
+  arxiv: 
+  image: 
+  image_mouseover: 
   authors:
-    - keunhong
-    - utsinh
-    - barron
-    - sofien
-    - dgo
-    - smseitz
-    - rmbrualla
-  awards:
-    - "Oral Presentation"
+    - jywu
+    - jkim
 
-- id: latentfusion
-  title: "LatentFusion: End-to-End Differentiable Reconstruction and Rendering for Unseen Object Pose Estimation "
-  venue: CVPR, 2020
-  description: "By learning to predict geometry from images, you can do zero-shot pose estimation with a single network."
-  project_page: "https://latentfusion.github.io"
-  github: NVlabs/latentfusion
-  arxiv: 1912.00416
-  image: latentfusion_before.jpg
-  image_mouseover: latentfusion_after.mp4
+- id: foveated_ar
+  title: "Foveated AR: Dynamically-Foveated Augmented Reality Display"
+  venue: SIGGRAPH, 2019
+  description: "AR display system that advances the state of the art for simultaneous wide FOV (100° diagonal), compact form factor, high foveal resolution (60 cpd), variable focus display and rendering, and large eyebox (12 mm × 8 mm)."
+  project_page: 
+  arxiv: 
+  image: 
+  image_mouseover: 
   authors:
-    - keunhong
-    - amousavian
-    - yux
-    - fox
+    - jkim
+    - yjeong
+    - mstengel
+    - kaksit
+    - ralbert
+    - bboudaoud
+    - tgreer
+    - jkim2
+    - wlopes
+    - zmajercik
+    - pshirley
+    - jspjut
+    - mmcguire
+    - dluebke
 
-- id: photoshape
-  title: "PhotoShape: Photorealistic Materials for Large-Scale Shape Collections"
-  venue: SIGGRAPH Asia, 2018
-  description: "By pairing large collections of images, 3D models, and materials, you can create thousands of photorealistic 3D models fully automatically."
-  project_page: "https://photoshape.github.io"
-  github: keunhong/photoshape
-  arxiv: 1809.09761
-  image: photoshape.jpg
+- id: retinal_3d
+  title: "Retinal 3D: augmented reality near-eye display via pupil-tracked light field projection on retina"
+  venue: SIGGRAPH Asia, 2017
+  description: "Retinal 3D provides virtual images with focus cues by generating a localized light field around the pupil position with real-time eye-tracking."
+  project_page: 
+  arxiv: 
+  image: 
+  image_mouseover: 
   authors:
-    - keunhong
-    - krematas
-    - ali
-    - smseitz
-  awards:
-    - "Journal Cover"
+    - cjang
+    - kbang
+    - smoon
+    - jkim
+    - slee
+    - blee

@@ -43,8 +43,25 @@ bundle exec jekyll serve
 bundle exec jekyll build
 ```
 
+### Git Workflow
+This repository is connected to GitHub Pages at https://jkim89.github.io
+
+```bash
+# Check current status
+git status
+
+# Stage all changes
+git add .
+
+# Commit with descriptive message
+git commit -m "Description of changes"
+
+# Push to GitHub (automatically deploys to GitHub Pages)
+git push origin main
+```
+
 ### Content Updates
-When updating content, modify the appropriate YAML files in `_data/`. The Jekyll templating system will automatically render changes.
+When updating content, modify the appropriate YAML files in `_data/`. The Jekyll templating system will automatically render changes. After making changes, use the Git workflow above to deploy to GitHub Pages.
 
 ## Key Features
 
