@@ -141,6 +141,116 @@
     - mmcguire
     - dluebke
 
+- id: large_etendue_holographic
+  title: "Large Étendue 3D Holographic Display with Content-adaptive Dynamic Fourier Modulation"
+  venue: SIGGRAPH Asia, 2024
+  description: "A large étendue 3D holographic display system with content-adaptive dynamic Fourier modulation."
+  project_page: 
+  arxiv: 
+  image: 
+  image_mouseover: 
+  authors:
+    - jkim
+
+- id: ai_mediated_3d_conferencing
+  title: "AI-Mediated 3D Video Conferencing"
+  venue: SIGGRAPH Emerging Technologies, 2023
+  description: "AI-mediated system for 3D video conferencing applications."
+  project_page: 
+  arxiv: 
+  image: 
+  image_mouseover: 
+  authors:
+    - jkim
+
+- id: high_quality_holographic_displays
+  title: "High-quality Holographic Displays Using Double SLMs"
+  venue: Optical Architectures Conference, 2021
+  description: "High-quality holographic display system using double spatial light modulators."
+  project_page: 
+  arxiv: 
+  image: 
+  image_mouseover: 
+  authors:
+    - jkim
+
+- id: neural_holography_2020
+  title: "Neural Holography"
+  venue: SIGGRAPH Emerging Technology, 2020
+  description: "Neural holography approach for computer-generated holographic displays."
+  project_page: https://www.computationalimaging.org/publications/neuralholography/
+  arxiv: 
+  image: 
+  image_mouseover: 
+  authors:
+    - ypeng
+    - schoi
+    - jkim
+    - gwetzstein
+
+- id: foveated_display_classification
+  title: "Toward Standardized Classification of Foveated Displays"
+  venue: IEEE Transactions on Visualization, 2020
+  description: "Standardized classification framework for foveated display systems."
+  project_page: 
+  arxiv: 
+  image: 
+  image_mouseover: 
+  authors:
+    - jkim
+
+- id: matching_prescription_2019
+  title: "Matching Prescription & Visual Acuity"
+  venue: SIGGRAPH Emerging Technology, 2019
+  description: "Matching prescription and visual acuity for augmented reality displays."
+  project_page: 
+  arxiv: 
+  image: 
+  image_mouseover: 
+  authors:
+    - jkim
+
+- id: near_eye_varifocal_ar
+  title: "Near-eye varifocal augmented reality display using see-through screens"
+  venue: SIGGRAPH Asia, 2017
+  description: "Near-eye varifocal augmented reality display system using see-through screens."
+  project_page: 
+  arxiv: 
+  image: 
+  image_mouseover: 
+  authors:
+    - kaksit
+    - wlopes
+    - jkim
+    - pshirley
+    - dluebke
+
+- id: mixed_primary_factorization
+  title: "Mixed-primary factorization for dual-frame computational displays"
+  venue: SIGGRAPH, 2017
+  description: "Mixed-primary factorization technique for dual-frame computational displays."
+  project_page: 
+  arxiv: 
+  image: 
+  image_mouseover: 
+  authors:
+    - fhuang
+    - dpajak
+    - jkim
+    - jkautz
+    - dluebke
+
+- id: varifocal_virtuality
+  title: "Varifocal Virtuality"
+  venue: SIGGRAPH Emerging Technologies, 2017
+  description: "Varifocal display technology for virtual reality applications."
+  project_page: 
+  arxiv: 
+  image: 
+  image_mouseover: 
+  authors:
+    - jkim
+
 - id: retinal_3d
   title: "Retinal 3D: augmented reality near-eye display via pupil-tracked light field projection on retina"
   venue: SIGGRAPH Asia, 2017

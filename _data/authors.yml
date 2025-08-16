@@ -134,6 +134,21 @@ blee:
   last_name: Lee
   website: "https://ece.snu.ac.kr/people/lee"
 
+fhuang:
+  first_name: Fu-Chung
+  last_name: Huang
+  website: ""
+
+dpajak:
+  first_name: Dawid
+  last_name: Pajak
+  website: ""
+
+jkautz:
+  first_name: Jan
+  last_name: Kautz
+  website: "https://research.nvidia.com/person/jan-kautz"
+
 keehoonhong:
   first_name: Keehoon
   last_name: Hong
