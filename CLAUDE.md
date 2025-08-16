@@ -113,3 +113,88 @@ The site uses Google Fonts (Google Sans, Noto Sans) and integrates Font Awesome 
 - **Nature**: https://www.nature.com/
 - **Optics Letters/Optica**: Optica Publishing Group
 - **Science Advances**: https://www.science.org/journal/sciadv
+
+## Development Session Lessons Learned
+
+### What Worked Well (Tasks Completed Successfully)
+
+1. **Initial Setup and Configuration**
+   - ✅ Successfully updated `_config.yml` with personal information
+   - ✅ Git repository connection and push workflow established
+   - ✅ Basic site structure understanding and navigation
+
+2. **Data Structure Updates**
+   - ✅ Employment and education data properly transferred from CV
+   - ✅ Profile picture replacement workflow
+   - ✅ CLAUDE.md documentation creation with development commands
+
+3. **UI/UX Improvements**
+   - ✅ Commenting out long descriptions in highlights.yml for cleaner design
+   - ✅ Publications sorted in reverse chronological order (latest first)
+
+### Critical Issues That Required Multiple Attempts
+
+1. **Publication Data Accuracy** ⚠️
+   - **Problem**: Author lists were frequently incorrect or incomplete
+   - **Root Cause**: Insufficient cross-referencing between multiple authoritative sources
+   - **Example**: AI-mediated 3D Video Conferencing had completely wrong authors initially
+   - **Solution Applied**: Systematic verification against NVIDIA research page, CV, and project sites
+
+2. **Publication Information Verification** ⚠️
+   - **Problem**: Titles, venues, and author orders were often inaccurate
+   - **Examples**: 
+     - "Matching Prescription & Visual Acuity" missing full title and Best in Show Award
+     - "Varifocal Virtuality" incorrect title format
+     - "Neural Holography" venue confusion (SIGGRAPH vs Emerging Tech)
+   - **Solution**: Multiple rounds of corrections using primary sources
+
+3. **Missing Publications** ⚠️
+   - **Problem**: Significant publications were missing from initial import
+   - **Root Cause**: Insufficient comprehensive review of NVIDIA research page
+   - **Solution**: Systematic addition of 9+ missing publications with proper author attribution
+
+### Best Practices for Future Development
+
+1. **Publication Data Management**
+   - ALWAYS cross-reference multiple sources: CV, Google Scholar, NVIDIA research page, Stanford publications
+   - Verify exact titles, author order, and venue information before committing
+   - Use WebFetch to pull accurate data from authoritative sources
+   - Double-check recent publications (2023-2024) as they're most likely to have errors
+
+2. **Author Information**
+   - Maintain consistent author ID format in authors.yml
+   - Verify author spelling and affiliations
+   - Include proper website links when available
+   - Mark the main author (is_me: true) correctly
+
+3. **Data Verification Workflow**
+   ```
+   1. Extract data from primary source (CV/official websites)
+   2. Cross-reference with secondary sources
+   3. Verify author lists and order
+   4. Confirm exact titles and venues
+   5. Test links and project pages
+   6. Commit changes
+   ```
+
+4. **Quality Assurance**
+   - Read data back after updates to catch obvious errors
+   - Test website functionality after major changes
+   - Maintain chronological organization
+   - Keep descriptions consistent in length and style
+
+### Technical Implementation Notes
+
+- GitHub Pages deployment works reliably with push workflow
+- Jekyll builds handle YAML data structure changes well
+- Project page links from computationalimaging.org are reliable
+- NVIDIA research page is the most authoritative source for recent work
+- CV PDF contains the most comprehensive publication list
+
+### Common Pitfalls to Avoid
+
+1. Don't assume author lists - always verify from primary sources
+2. Don't copy-paste without cross-checking accuracy
+3. Don't commit large data changes without reviewing output
+4. Don't ignore venue vs conference vs journal distinctions
+5. Don't skip verification of publication years and chronological order
