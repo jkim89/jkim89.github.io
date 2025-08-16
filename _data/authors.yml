@@ -149,6 +149,51 @@ jkautz:
   last_name: Kautz
   website: "https://research.nvidia.com/person/jan-kautz"
 
+lshi:
+  first_name: Liang
+  last_name: Shi
+  website: ""
+
+knagano:
+  first_name: Koki
+  last_name: Nagano
+  website: "https://research.nvidia.com/person/koki-nagano"
+
+cliu:
+  first_name: Chao
+  last_name: Liu
+  website: ""
+
+mchan:
+  first_name: Matthew
+  last_name: Chan
+  website: ""
+
+atrevithick:
+  first_name: Alex
+  last_name: Trevithick
+  website: ""
+
+sdemello:
+  first_name: Shalini
+  last_name: De Mello
+  website: "https://research.nvidia.com/person/shalini-de-mello"
+
+amazumdar:
+  first_name: Amrita
+  last_name: Mazumdar
+  website: ""
+
+swang:
+  first_name: Shengze
+  last_name: Wang
+  website: ""
+
+mjaiswal:
+  first_name: Mayoore
+  last_name: Jaiswal
+  website: ""
+
 keehoonhong:
   first_name: Keehoon
   last_name: Hong

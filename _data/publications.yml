@@ -2,7 +2,7 @@
   title: "Full-colour 3D holographic augmented-reality displays with metasurface waveguides"
   venue: Nature, 2024
   description: "A near-eye display design that pairs inverse-designed metasurface waveguides with AI-driven holographic displays to enable full-colour 3D augmented reality from a compact glasses-like form factor."
-  project_page: https://www.computationalimaging.org/publications/neuralholography/
+  project_page: 
   arxiv: 
   image: 
   image_mouseover: 
@@ -142,7 +142,7 @@
     - dluebke
 
 - id: large_etendue_holographic
-  title: "Large Étendue 3D Holographic Display with Content-adaptive Dynamic Fourier Modulation"
+  title: "Large Étendue 3D Holographic Display with Content-adpative Dynamic Fourier Modulation"
   venue: SIGGRAPH Asia, 2024
   description: "A large étendue 3D holographic display system with content-adaptive dynamic Fourier modulation."
   project_page: 
@@ -150,8 +150,10 @@
   image: 
   image_mouseover: 
   authors:
-    - schoi
+    - bchao
     - mgopakumar
+    - schoi
+    - lshi
     - jkim
     - gwetzstein
 
@@ -164,10 +166,17 @@
   image: 
   image_mouseover: 
   authors:
+    - mstengel
+    - knagano
+    - cliu
+    - mchan
+    - atrevithick
+    - sdemello
     - jkim
-    - mgopakumar
-    - schoi
-    - gwetzstein
+    - dluebke
+    - amazumdar
+    - swang
+    - mjaiswal
 
 - id: high_quality_holographic_displays
   title: "High-quality Holographic Displays Using Double SLMs"
@@ -185,9 +194,9 @@
     - gwetzstein
 
 - id: neural_holography_2020
-  title: "Neural Holography"
-  venue: SIGGRAPH Emerging Technology, 2020
-  description: "Neural holography approach for computer-generated holographic displays."
+  title: "Neural holography with camera-in-the-loop training"
+  venue: SIGGRAPH, 2020
+  description: "Neural holography approach for computer-generated holographic displays with camera-in-the-loop training."
   project_page: https://www.computationalimaging.org/publications/neuralholography/
   arxiv: 
   image: 
