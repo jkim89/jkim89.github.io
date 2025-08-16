@@ -232,9 +232,9 @@
     - dluebke
 
 - id: matching_prescription_2019
-  title: "Matching Prescription & Visual Acuity"
-  venue: SIGGRAPH Emerging Technology, 2019
-  description: "Matching prescription and visual acuity for augmented reality displays."
+  title: "Matching Prescription & Visual Acuity: Towards AR for Humans"
+  venue: SIGGRAPH Emerging Technologies, 2019
+  description: "Matching prescription and visual acuity for augmented reality displays. Best in Show Award winner."
   project_page: 
   arxiv: 
   image: 
@@ -242,6 +242,19 @@
   authors:
     - jkim
     - jywu
+    - yjeong
+    - mstengel
+    - kaksit
+    - ralbert
+    - bboudaoud
+    - tgreer
+    - jkim2
+    - wlopes
+    - zmajercik
+    - pshirley
+    - jspjut
+    - mmcguire
+    - dluebke
 
 - id: near_eye_varifocal_ar
   title: "Near-eye varifocal augmented reality display using see-through screens"
@@ -274,9 +287,9 @@
     - dluebke
 
 - id: varifocal_virtuality
-  title: "Varifocal Virtuality"
+  title: "Varifocal Virtuality: A Novel Optical Layout for Near-eye Display"
   venue: SIGGRAPH Emerging Technologies, 2017
-  description: "Varifocal display technology for virtual reality applications."
+  description: "A novel optical layout for near-eye varifocal display technology."
   project_page: 
   arxiv: 
   image: 
