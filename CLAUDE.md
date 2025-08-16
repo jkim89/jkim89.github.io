@@ -92,3 +92,24 @@ Primary configuration in `_config.yml`:
 - SCSS compilation options
 
 The site uses Google Fonts (Google Sans, Noto Sans) and integrates Font Awesome and Academicons for iconography.
+
+## Reference URLs
+
+### Project Page Sources
+- **Computational Imaging Publications**: https://www.computationalimaging.org/publications/
+  - Contains project pages for Stanford holography research
+  - Neural Holography, Holographic Glasses, Time-multiplexed Neural Holography, etc.
+
+- **NVIDIA Research Profile**: https://research.nvidia.com/person/jonghyun-kim
+  - Contains NVIDIA-era publications and projects
+  - Foveated AR, Prescription AR, and other AR/VR display research
+
+- **Google Scholar Profile**: https://scholar.google.com/citations?user=QKsqzVEAAAAJ
+  - Complete publication list with citation counts
+  - Useful for finding arXiv links and publication metadata
+
+### Publication Venues
+- **SIGGRAPH/SIGGRAPH Asia**: ACM Digital Library
+- **Nature**: https://www.nature.com/
+- **Optics Letters/Optica**: Optica Publishing Group
+- **Science Advances**: https://www.science.org/journal/sciadv

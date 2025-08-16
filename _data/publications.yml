@@ -2,7 +2,7 @@
   title: "Full-colour 3D holographic augmented-reality displays with metasurface waveguides"
   venue: Nature, 2024
   description: "A near-eye display design that pairs inverse-designed metasurface waveguides with AI-driven holographic displays to enable full-colour 3D augmented reality from a compact glasses-like form factor."
-  project_page: 
+  project_page: https://www.computationalimaging.org/publications/neuralholography/
   arxiv: 
   image: 
   image_mouseover: 
@@ -19,7 +19,7 @@
   title: "Holographic Glasses for Virtual Reality"
   venue: SIGGRAPH, 2022
   description: "Holographic Glasses is a holographic near-eye display system with an eyeglasses-like form factor for virtual reality. The proposed design can deliver full-color 3D holographic images using an optical stack of 2.5 mm thickness."
-  project_page: 
+  project_page: https://www.computationalimaging.org/publications/holographic-glasses/
   arxiv: 
   image: 
   image_mouseover: 
@@ -35,7 +35,7 @@
   title: "Time-multiplexed Neural Holography: A Flexible Framework for Holographic Near-eye Displays with Fast Heavily-quantized Spatial Light Modulators"
   venue: SIGGRAPH, 2022
   description: "A flexible framework for holographic displays that enables fast frame rates with heavily quantized spatial light modulators."
-  project_page: 
+  project_page: https://www.computationalimaging.org/publications/time-multiplexed-neural-holography/
   arxiv: 
   image: 
   image_mouseover: 
@@ -80,7 +80,7 @@
   title: "Neural 3D Holography: Learning Accurate Wave Propagation Models for 3D Holographic Virtual and Augmented Reality Displays"
   venue: SIGGRAPH Asia, 2021
   description: "Learning accurate wave propagation models for 3D holographic displays using neural networks."
-  project_page: 
+  project_page: https://www.computationalimaging.org/publications/neuralholography3d/
   arxiv: 
   image: 
   image_mouseover: 
@@ -95,7 +95,7 @@
   title: "Optimizing image quality for holographic near-eye displays with Michelson Holography"
   venue: Optica, 2021
   description: "Optimizing image quality for holographic near-eye displays using Michelson holography techniques."
-  project_page: 
+  project_page: https://www.computationalimaging.org/publications/michelsonholography/
   arxiv: 
   image: 
   image_mouseover: 
