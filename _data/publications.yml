@@ -150,7 +150,10 @@
   image: 
   image_mouseover: 
   authors:
+    - schoi
+    - mgopakumar
     - jkim
+    - gwetzstein
 
 - id: ai_mediated_3d_conferencing
   title: "AI-Mediated 3D Video Conferencing"
@@ -162,6 +165,9 @@
   image_mouseover: 
   authors:
     - jkim
+    - mgopakumar
+    - schoi
+    - gwetzstein
 
 - id: high_quality_holographic_displays
   title: "High-quality Holographic Displays Using Double SLMs"
@@ -172,7 +178,11 @@
   image: 
   image_mouseover: 
   authors:
+    - mgopakumar
     - jkim
+    - schoi
+    - ypeng
+    - gwetzstein
 
 - id: neural_holography_2020
   title: "Neural Holography"
@@ -198,6 +208,19 @@
   image_mouseover: 
   authors:
     - jkim
+    - yjeong
+    - mstengel
+    - kaksit
+    - ralbert
+    - bboudaoud
+    - tgreer
+    - jkim2
+    - wlopes
+    - zmajercik
+    - pshirley
+    - jspjut
+    - mmcguire
+    - dluebke
 
 - id: matching_prescription_2019
   title: "Matching Prescription & Visual Acuity"
@@ -209,6 +232,7 @@
   image_mouseover: 
   authors:
     - jkim
+    - jywu
 
 - id: near_eye_varifocal_ar
   title: "Near-eye varifocal augmented reality display using see-through screens"
@@ -234,7 +258,7 @@
   image: 
   image_mouseover: 
   authors:
-    - fhuang
+    - fchuang
     - dpajak
     - jkim
     - jkautz
@@ -249,7 +273,11 @@
   image: 
   image_mouseover: 
   authors:
+    - kaksit
+    - wlopes
     - jkim
+    - pshirley
+    - dluebke
 
 - id: retinal_3d
   title: "Retinal 3D: augmented reality near-eye display via pupil-tracked light field projection on retina"
