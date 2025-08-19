@@ -284,3 +284,213 @@
     - jkim
     - slee
     - blee
+
+# 2016
+- id: f_number_matching_light_field
+  title: "F-number matching method in light field microscopy using an elastic micro lens array"
+  venue: Optics Letters, 2016
+  description: "F-number matching method for light field microscopy using elastic micro lens arrays to improve optical performance."
+  project_page: 
+  arxiv: 
+  image: 
+  image_mouseover: 
+  authors:
+    - jkim
+    - yjeong
+    - hkim
+    - changkunlee
+    - blee
+    - jongyounghong
+    - youngminkim
+    - youngcheolhong
+    - seungdeoklee
+
+# 2015
+- id: glasses_free_randot_stereotest
+  title: "Glasses-free randot stereotest"
+  venue: Journal of Biomedical Optics, 2015
+  description: "A glasses-free stereoacuity test using 3D display technology for clinical applications."
+  project_page: 
+  arxiv: 
+  image: 
+  image_mouseover: 
+  authors:
+    - jkim
+    - jongyounghong
+    - keehoonhong
+    - hkyang
+    - sbhan
+    - jmhwang
+    - blee
+
+- id: crosstalk_reduced_dual_mode
+  title: "Crosstalk-reduced dual-mode mobile 3D display"
+  venue: Journal of Display Technology, 2015
+  description: "A dual-mode mobile 3D display system with reduced crosstalk for improved viewing experience."
+  project_page: 
+  arxiv: 
+  image: 
+  image_mouseover: 
+  authors:
+    - jkim
+    - changkunlee
+    - yjeong
+    - cjang
+    - jongyounghong
+    - wlee
+    - ycshin
+    - jjhyoon
+    - blee
+
+# 2014
+- id: real_time_integral_imaging_microscopy
+  title: "Real-time integral imaging system for light field microscopy"
+  venue: Optics Express, 2014
+  description: "Real-time integral imaging system for light field microscopy applications with enhanced temporal resolution."
+  project_page: 
+  arxiv: 
+  image: 
+  image_mouseover: 
+  authors:
+    - jkim
+    - jaehyunjung
+    - yjeong
+    - keehoonhong
+    - blee
+
+- id: liquid_crystal_square_lens
+  title: "Liquid crystal-based square lens array with tunable focal length"
+  venue: Optics Express, 2014
+  description: "Tunable focal length liquid crystal lens array for adaptive optical applications."
+  project_page: 
+  arxiv: 
+  image: 
+  image_mouseover: 
+  authors:
+    - jkim
+    - joonhyukkim
+    - jinhyeongna
+    - blee
+    - seungdeoklee
+
+# 2013
+- id: real_time_capturing_3d_visualization
+  title: "Real-time capturing and 3D visualization method based on integral imaging"
+  venue: Optics Express, 2013
+  description: "Real-time capturing and 3D visualization system using integral imaging for dynamic scene reconstruction."
+  project_page: 
+  arxiv: 
+  image: 
+  image_mouseover: 
+  authors:
+    - jkim
+    - jaehyunjung
+    - cjang
+    - blee
+
+# 2011
+- id: full_color_anaglyph_3d_display
+  title: "A full-color anaglyph three-dimensional display system using active color filter glasses"
+  venue: Journal of Information Display, 2011
+  description: "Full-color anaglyph 3D display system with active color filter glasses for enhanced viewing experience."
+  project_page: 
+  arxiv: 
+  image: 
+  image_mouseover: 
+  authors:
+    - jkim
+    - youngminkim
+    - jisoohong
+    - gunheepark
+    - keehoonhong
+    - swmin
+    - blee
+
+# Additional important publications from PhD period
+
+- id: see_through_optical_combiner
+  title: "See-through optical combiner for augmented reality head-mounted display: index-matched anisotropic crystal lens"
+  venue: Scientific Reports, 2017
+  description: "See-through optical combiner design using index-matched anisotropic crystal lens for AR head-mounted displays."
+  project_page: 
+  arxiv: 
+  image: 
+  image_mouseover: 
+  authors:
+    - jongyounghong
+    - changkunlee
+    - slee
+    - blee
+    - dyoo
+    - cjang
+    - jkim
+    - yjeong
+    - blee
+
+- id: signal_enhanced_holographic_microscopy
+  title: "Signal enhanced holographic fluorescence microscopy with guide-star reconstruction"
+  venue: Biomedical Optics Express, 2016
+  description: "Signal enhanced guide-star reconstruction method for holographic fluorescence microscopy using incoherent digital holography."
+  project_page: 
+  arxiv: 
+  image: 
+  image_mouseover: 
+  authors:
+    - cjang
+    - davidclark
+    - jkim
+    - blee
+    - myungkkim
+
+- id: dual_dimensional_microscopy
+  title: "Dual-dimensional microscopy: real-time in vivo three-dimensional observation method using high-resolution light-field microscopy and light-field display"
+  venue: Scientific Reports, 2015
+  description: "Real-time in vivo 3D observation method combining high-resolution light-field microscopy with light-field display technology."
+  project_page: 
+  arxiv: 
+  image: 
+  image_mouseover: 
+  authors:
+    - yjeong
+    - keehoonhong
+    - jkim
+    - changkunlee
+    - blee
+
+- id: new_stereoacuity_test_3d
+  title: "New stereoacuity test using a 3-dimensional display system in children"
+  venue: PLoS One, 2015
+  description: "Novel stereoacuity testing method using 3D display systems for pediatric clinical applications."
+  project_page: 
+  arxiv: 
+  image: 
+  image_mouseover: 
+  authors:
+    - sbhan
+    - hkyang
+    - jkim
+    - keehoonhong
+    - blee
+    - jmhwang
+
+- id: resolution_enhancement_holographic_printer
+  title: "Resolution enhancement of holographic printer using a hogel overlapping method"
+  venue: Optics Express, 2013
+  description: "Hogel overlapping method for holographic printers to enhance lateral resolution using volume hologram multiplexing properties."
+  project_page: 
+  arxiv: 
+  image: 
+  image_mouseover: 
+  authors:
+    - keehoonhong
+    - soongipark
+    - jiwoonyeom
+    - jkim
+    - nichen
+    - kyungsukpyun
+    - chilsungchoi
+    - sunilkim
+    - jungkwuenan
+    - hongseoklee
+    - uinchung
+    - blee
