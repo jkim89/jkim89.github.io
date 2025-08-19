@@ -1,27 +1,10 @@
-# 2024
-- id: large_etendue_holographic
-  title: "Large Étendue 3D Holographic Display with Content-adpative Dynamic Fourier Modulation"
-  venue: SIGGRAPH Asia, 2024
-  description: "A large étendue 3D holographic display system with content-adaptive dynamic Fourier modulation."
-  project_page: 
-  arxiv: 
-  image: 
-  image_mouseover: 
-  authors:
-    - bchao
-    - mgopakumar
-    - schoi
-    - lshi
-    - jkim
-    - gwetzstein
-
 - id: holographic_ar_nature
   title: "Full-colour 3D holographic augmented-reality displays with metasurface waveguides"
   venue: Nature, 2024
   description: "A near-eye display design that pairs inverse-designed metasurface waveguides with AI-driven holographic displays to enable full-colour 3D augmented reality from a compact glasses-like form factor."
-  project_page: 
+  project_page: https://www.computationalimaging.org/publications/holographicar/ 
   arxiv: 
-  image: 
+  image: images/holographic_ar_nature/ARglasses_mannequin.jpg
   image_mouseover: 
   authors:
     - mgopakumar
@@ -32,14 +15,155 @@
     - jkim
     - gwetzstein
 
-# 2023
+- id: holographic_glasses_vr
+  title: "Holographic Glasses for Virtual Reality"
+  venue: SIGGRAPH Technical Papers, 2022
+  description: "Holographic Glasses is a holographic near-eye display system with an eyeglasses-like form factor for virtual reality. The proposed design can deliver full-color 3D holographic images using an optical stack of 2.5 mm thickness."
+  project_page: https://www.computationalimaging.org/publications/holographic-glasses/
+  arxiv: 
+  image: images/holographic_glasses_vr/holographic_glasses.jpg
+  image_mouseover: 
+  authors:
+    - jkim
+    - mgopakumar
+    - schoi
+    - ypeng
+    - wlopes
+    - gwetzstein
+
+- id: time_multiplexed_neural
+  title: "Time-multiplexed Neural Holography: A Flexible Framework for Holographic Near-eye Displays with Fast Heavily-quantized Spatial Light Modulators"
+  venue: SIGGRAPH Technical Papers, 2022
+  description: "A flexible framework for holographic displays that enables fast frame rates with heavily quantized spatial light modulators."
+  project_page: https://www.computationalimaging.org/publications/time-multiplexed-neural-holography/
+  arxiv: 
+  image: images/time_multiplexed_neural/tmnh_3d.gif
+  image_mouseover: 
+  authors:
+    - schoi
+    - mgopakumar
+    - ypeng
+    - jkim
+    - motoole
+    - gwetzstein
+
+- id: unfiltered_holography
+  title: "Unfiltered holography: optimizing high diffraction orders without optical filtering for compact holographic displays"
+  venue: Optics Letters, 2021
+  description: "Optimization of high diffraction orders without optical filtering for compact holographic displays."
+  project_page: https://www.computationalimaging.org/publications/unfilteredholography/
+  arxiv: 
+  image: images/unfiltered_holography/HOGD_capture_1.png
+  image_mouseover: 
+  authors:
+    - mgopakumar
+    - jkim
+    - schoi
+    - ypeng
+    - gwetzstein
+
+- id: speckle_free
+  title: "Speckle-free holography with partially coherent light sources and camera-in-the-loop calibration"
+  venue: Science Advances, 2021
+  description: "Achieving unprecedented holographic image quality with better computation using camera-in-the-loop training."
+  project_page: https://www.computationalimaging.org/publications/partiallycoherentholography/
+  arxiv: 
+  image: images/speckle_free/spe.PNG
+  image_mouseover: 
+  authors:
+    - ypeng
+    - schoi
+    - jkim
+    - gwetzstein
+
+- id: neural_3d_holography
+  title: "Neural 3D Holography: Learning Accurate Wave Propagation Models for 3D Holographic Virtual and Augmented Reality Displays"
+  venue: SIGGRAPH Asia Technical Papers, 2021
+  description: "Learning accurate wave propagation models for 3D holographic displays using neural networks."
+  project_page: https://www.computationalimaging.org/publications/neuralholography3d/
+  arxiv: 
+  image: images/neural_3d_holography/Capture.PNG
+  image_mouseover: 
+  authors:
+    - schoi
+    - mgopakumar
+    - ypeng
+    - jkim
+    - gwetzstein
+
+- id: michelson_holography
+  title: "Optimizing image quality for holographic near-eye displays with Michelson Holography"
+  venue: Optica, 2021
+  description: "Optimizing image quality for holographic near-eye displays using Michelson holography techniques."
+  project_page: https://www.computationalimaging.org/publications/michelsonholography/
+  arxiv: 
+  image: images/michelson_holography/MH_Thumbnail.jpg
+  image_mouseover: 
+  authors:
+    - schoi
+    - jkim
+    - ypeng
+    - gwetzstein
+
+- id: prescription_ar
+  title: "Prescription AR: a fully-customized prescription-embedded augmented reality display"
+  venue: Optics Express, 2020
+  description: "A fully-customized AR display design that considers the user's prescription, interpupillary distance, and taste of fashion. A free-form image combiner embedded inside the prescription lens provides augmented images."
+  project_page: https://research.nvidia.com/publication/2020-03_prescription-ar-fully-customized-prescription-embedded-augmented-reality
+  arxiv: 
+  image: images/prescription_ar/prescription_ar_paper.PNG
+  image_mouseover: 
+  authors:
+    - jywu
+    - jkim
+
+- id: foveated_ar
+  title: "Foveated AR: Dynamically-Foveated Augmented Reality Display"
+  venue: SIGGRAPH Technical Papers, 2019
+  description: "AR display system that advances the state of the art for simultaneous wide FOV (100° diagonal), compact form factor, high foveal resolution (60 cpd), variable focus display and rendering, and large eyebox (12 mm × 8 mm)."
+  project_page: https://research.nvidia.com/publication/2019-07_foveated-ar-dynamically-foveated-augmented-reality-display
+  arxiv: 
+  image: images/foveated_ar/foveated_ar_thumbnail.PNG
+  image_mouseover: 
+  authors:
+    - jkim
+    - yjeong
+    - mstengel
+    - kaksit
+    - ralbert
+    - bboudaoud
+    - tgreer
+    - jkim2
+    - wlopes
+    - zmajercik
+    - pshirley
+    - jspjut
+    - mmcguire
+    - dluebke
+
+- id: large_etendue_holographic
+  title: "Large Étendue 3D Holographic Display with Content-adpative Dynamic Fourier Modulation"
+  venue: SIGGRAPH Asia Technical Papers, 2024
+  description: "A large étendue 3D holographic display system with content-adaptive dynamic Fourier modulation."
+  project_page: https://bchao1.github.io/holo_dfm/
+  arxiv: 
+  image: images/large_etendue_holographic/large.PNG
+  image_mouseover: 
+  authors:
+    - bchao
+    - mgopakumar
+    - schoi
+    - lshi
+    - jkim
+    - gwetzstein
+
 - id: ai_mediated_3d_conferencing
   title: "AI-Mediated 3D Video Conferencing"
   venue: SIGGRAPH Emerging Technologies, 2023
   description: "AI-mediated system for 3D video conferencing applications."
-  project_page: 
+  project_page: https://research.nvidia.com/labs/nxp/3dvc-siggraph-etech/
   arxiv: 
-  image: 
+  image: images/ai_mediated_3d_conferencing/header_img.png
   image_mouseover: 
   authors:
     - mstengel
@@ -54,121 +178,28 @@
     - swang
     - mjaiswal
 
-# 2022
-- id: holographic_glasses_vr
-  title: "Holographic Glasses for Virtual Reality"
-  venue: SIGGRAPH, 2022
-  description: "Holographic Glasses is a holographic near-eye display system with an eyeglasses-like form factor for virtual reality. The proposed design can deliver full-color 3D holographic images using an optical stack of 2.5 mm thickness."
-  project_page: https://www.computationalimaging.org/publications/holographic-glasses/
-  arxiv: 
-  image: 
-  image_mouseover: 
-  authors:
-    - jkim
-    - mgopakumar
-    - schoi
-    - ypeng
-    - wlopes
-    - gwetzstein
+# - id: high_quality_holographic_displays
+#   title: "High-quality Holographic Displays Using Double SLMs"
+#   venue: SPIE Photonics West Optical Architectures Conference, 2021
+#   description: "High-quality holographic display system using double spatial light modulators."
+#   project_page: 
+#   arxiv: 
+#   image: 
+#   image_mouseover: 
+#   authors:
+#     - mgopakumar
+#     - jkim
+#     - schoi
+#     - ypeng
+#     - gwetzstein
 
-- id: time_multiplexed_neural
-  title: "Time-multiplexed Neural Holography: A Flexible Framework for Holographic Near-eye Displays with Fast Heavily-quantized Spatial Light Modulators"
-  venue: SIGGRAPH, 2022
-  description: "A flexible framework for holographic displays that enables fast frame rates with heavily quantized spatial light modulators."
-  project_page: https://www.computationalimaging.org/publications/time-multiplexed-neural-holography/
-  arxiv: 
-  image: 
-  image_mouseover: 
-  authors:
-    - schoi
-    - mgopakumar
-    - ypeng
-    - jkim
-    - motoole
-    - gwetzstein
-
-# 2021
-- id: neural_3d_holography
-  title: "Neural 3D Holography: Learning Accurate Wave Propagation Models for 3D Holographic Virtual and Augmented Reality Displays"
-  venue: SIGGRAPH Asia, 2021
-  description: "Learning accurate wave propagation models for 3D holographic displays using neural networks."
-  project_page: https://www.computationalimaging.org/publications/neuralholography3d/
-  arxiv: 
-  image: 
-  image_mouseover: 
-  authors:
-    - schoi
-    - mgopakumar
-    - ypeng
-    - jkim
-    - gwetzstein
-
-- id: unfiltered_holography
-  title: "Unfiltered holography: optimizing high diffraction orders without optical filtering for compact holographic displays"
-  venue: Optics Letters, 2021
-  description: "Optimization of high diffraction orders without optical filtering for compact holographic displays."
-  project_page: 
-  arxiv: 
-  image: 
-  image_mouseover: 
-  authors:
-    - mgopakumar
-    - jkim
-    - schoi
-    - ypeng
-    - gwetzstein
-
-- id: speckle_free
-  title: "Speckle-free holography with partially coherent light sources and camera-in-the-loop calibration"
-  venue: Science Advances, 2021
-  description: "Achieving unprecedented holographic image quality with better computation using camera-in-the-loop training."
-  project_page: 
-  arxiv: 
-  image: 
-  image_mouseover: 
-  authors:
-    - ypeng
-    - schoi
-    - jkim
-    - gwetzstein
-
-- id: michelson_holography
-  title: "Optimizing image quality for holographic near-eye displays with Michelson Holography"
-  venue: Optica, 2021
-  description: "Optimizing image quality for holographic near-eye displays using Michelson holography techniques."
-  project_page: https://www.computationalimaging.org/publications/michelsonholography/
-  arxiv: 
-  image: 
-  image_mouseover: 
-  authors:
-    - schoi
-    - jkim
-    - ypeng
-    - gwetzstein
-
-- id: high_quality_holographic_displays
-  title: "High-quality Holographic Displays Using Double SLMs"
-  venue: Optical Architectures Conference, 2021
-  description: "High-quality holographic display system using double spatial light modulators."
-  project_page: 
-  arxiv: 
-  image: 
-  image_mouseover: 
-  authors:
-    - mgopakumar
-    - jkim
-    - schoi
-    - ypeng
-    - gwetzstein
-
-# 2020
 - id: neural_holography_2020
-  title: "Neural holography with camera-in-the-loop training"
-  venue: SIGGRAPH, 2020
+  title: "Neural holography"
+  venue: SIGGRAPH Emerging Technologies, 2020
   description: "Neural holography approach for computer-generated holographic displays with camera-in-the-loop training."
   project_page: https://www.computationalimaging.org/publications/neuralholography/
   arxiv: 
-  image: 
+  image: images/neural_holography_2020/olas_feature_small.jpg
   image_mouseover: 
   authors:
     - ypeng
@@ -176,74 +207,37 @@
     - jkim
     - gwetzstein
 
-- id: prescription_ar
-  title: "Prescription AR: a fully-customized prescription-embedded augmented reality display"
-  venue: Optics Express, 2020
-  description: "A fully-customized AR display design that considers the user's prescription, interpupillary distance, and taste of fashion. A free-form image combiner embedded inside the prescription lens provides augmented images."
-  project_page: 
-  arxiv: 
-  image: 
-  image_mouseover: 
-  authors:
-    - jywu
-    - jkim
-
-- id: foveated_display_classification
-  title: "Toward Standardized Classification of Foveated Displays"
-  venue: IEEE Transactions on Visualization, 2020
-  description: "Standardized classification framework for foveated display systems."
-  project_page: 
-  arxiv: 
-  image: 
-  image_mouseover: 
-  authors:
-    - jkim
-    - yjeong
-    - mstengel
-    - kaksit
-    - ralbert
-    - bboudaoud
-    - tgreer
-    - jkim2
-    - wlopes
-    - zmajercik
-    - pshirley
-    - jspjut
-    - mmcguire
-    - dluebke
-
-# 2019
-- id: foveated_ar
-  title: "Foveated AR: Dynamically-Foveated Augmented Reality Display"
-  venue: SIGGRAPH, 2019
-  description: "AR display system that advances the state of the art for simultaneous wide FOV (100° diagonal), compact form factor, high foveal resolution (60 cpd), variable focus display and rendering, and large eyebox (12 mm × 8 mm)."
-  project_page: 
-  arxiv: 
-  image: 
-  image_mouseover: 
-  authors:
-    - jkim
-    - yjeong
-    - mstengel
-    - kaksit
-    - ralbert
-    - bboudaoud
-    - tgreer
-    - jkim2
-    - wlopes
-    - zmajercik
-    - pshirley
-    - jspjut
-    - mmcguire
-    - dluebke
+# - id: foveated_display_classification
+#   title: "Toward Standardized Classification of Foveated Displays"
+#   venue: IEEE Transactions on Visualization, 2020
+#   description: "Standardized classification framework for foveated display systems."
+#   project_page: 
+#   arxiv: 
+#   image: 
+#   image_mouseover: 
+#   authors:
+#     - jkim
+#     - yjeong
+#     - mstengel
+#     - kaksit
+#     - ralbert
+#     - bboudaoud
+#     - tgreer
+#     - jkim2
+#     - wlopes
+#     - zmajercik
+#     - pshirley
+#     - jspjut
+#     - mmcguire
+#     - dluebke
 
 - id: matching_prescription_2019
   title: "Matching Prescription & Visual Acuity: Towards AR for Humans"
   venue: SIGGRAPH Emerging Technologies, 2019
   description: "Matching prescription and visual acuity for augmented reality displays. Best in Show Award winner."
-  project_page: 
+  project_page: https://research.nvidia.com/publication/2019-07_matching-prescription-visual-acuity-towards-ar-humans
   arxiv: 
-  image: 
+  image: images/matching_prescription_2019/prescription_ar.PNG
   image_mouseover: 
   authors:
     - jkim
@@ -262,30 +256,13 @@
     - mmcguire
     - dluebke
 
-# 2017
-- id: retinal_3d
-  title: "Retinal 3D: augmented reality near-eye display via pupil-tracked light field projection on retina"
-  venue: SIGGRAPH Asia, 2017
-  description: "Retinal 3D provides virtual images with focus cues by generating a localized light field around the pupil position with real-time eye-tracking."
-  project_page: 
-  arxiv: 
-  image: 
-  image_mouseover: 
-  authors:
-    - cjang
-    - kbang
-    - smoon
-    - jkim
-    - slee
-    - blee
-
 - id: near_eye_varifocal_ar
   title: "Near-eye varifocal augmented reality display using see-through screens"
-  venue: SIGGRAPH Asia, 2017
+  venue: SIGGRAPH Asia Technical Papers, 2017
   description: "Near-eye varifocal augmented reality display system using see-through screens."
-  project_page: 
+  project_page: https://research.nvidia.com/publication/2017-11_near-eye-varifocal-augmented-reality-display-using-see-through-screens
   arxiv: 
-  image: 
+  image: images/near_eye_varifocal_ar/varifocal_paper_thumbnail.PNG
   image_mouseover: 
   authors:
     - kaksit
@@ -296,11 +273,11 @@
 
 - id: mixed_primary_factorization
   title: "Mixed-primary factorization for dual-frame computational displays"
-  venue: SIGGRAPH, 2017
+  venue: SIGGRAPH Technical Papers, 2017
   description: "Mixed-primary factorization technique for dual-frame computational displays."
-  project_page: 
+  project_page: https://research.nvidia.com/publication/2017-07_mixed-primary-factorization-dual-frame-computational-displays
   arxiv: 
-  image: 
+  image: images/mixed_primary_factorization/MP_thumb_0.png
   image_mouseover: 
   authors:
     - fchuang
@@ -313,9 +290,9 @@
   title: "Varifocal Virtuality: A Novel Optical Layout for Near-eye Display"
   venue: SIGGRAPH Emerging Technologies, 2017
   description: "A novel optical layout for near-eye varifocal display technology."
-  project_page: 
+  project_page: https://research.nvidia.com/publication/2017-07_varifocal-virtuality-novel-optical-layout-near-eye-display
   arxiv: 
-  image: 
+  image: images/varifocal_virtuality/varifocal_etech_thumbnail.PNG
   image_mouseover: 
   authors:
     - kaksit
@@ -323,3 +300,19 @@
     - jkim
     - pshirley
     - dluebke
+
+- id: retinal_3d
+  title: "Retinal 3D: augmented reality near-eye display via pupil-tracked light field projection on retina"
+  venue: SIGGRAPH Asia Technical Papers, 2017
+  description: "Retinal 3D provides virtual images with focus cues by generating a localized light field around the pupil position with real-time eye-tracking."
+  project_page: http://oeqelab.snu.ac.kr/retinal3d
+  arxiv: 
+  image: images/retinal_3d/retinal3d_tn.PNG
+  image_mouseover: 
+  authors:
+    - cjang
+    - kbang
+    - smoon
+    - jkim
+    - slee
+    - blee

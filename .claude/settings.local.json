@@ -5,7 +5,9 @@
       "Bash(git push:*)",
       "Bash(git commit:*)",
       "WebFetch(domain:www.computationalimaging.org)",
-      "WebFetch(domain:research.nvidia.com)"
+      "WebFetch(domain:research.nvidia.com)",
+      "Bash(curl:*)",
+      "WebFetch(domain:bchao1.github.io)"
     ],
     "deny": [],
     "ask": []
