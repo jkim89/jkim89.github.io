@@ -1,3 +1,4 @@
+# 2024
 - id: holographic_ar_nature
   title: "Full-colour 3D holographic augmented-reality displays with metasurface waveguides"
   venue: Nature, 2024
@@ -15,6 +16,45 @@
     - jkim
     - gwetzstein
 
+- id: large_etendue_holographic
+  title: "Large Étendue 3D Holographic Display with Content-adpative Dynamic Fourier Modulation"
+  venue: SIGGRAPH Asia Technical Papers, 2024
+  description: "A large étendue 3D holographic display system with content-adaptive dynamic Fourier modulation."
+  project_page: https://bchao1.github.io/holo_dfm/
+  arxiv: 
+  image: large_etendue_holographic/large.PNG
+  image_mouseover: 
+  authors:
+    - bchao
+    - mgopakumar
+    - schoi
+    - lshi
+    - jkim
+    - gwetzstein
+
+# 2023
+- id: ai_mediated_3d_conferencing
+  title: "AI-Mediated 3D Video Conferencing"
+  venue: SIGGRAPH Emerging Technologies, 2023
+  description: "AI-mediated system for 3D video conferencing applications."
+  project_page: https://research.nvidia.com/labs/nxp/3dvc-siggraph-etech/
+  arxiv: 
+  image: ai_mediated_3d_conferencing/header_img.png
+  image_mouseover: 
+  authors:
+    - mstengel
+    - knagano
+    - cliu
+    - mchan
+    - atrevithick
+    - sdemello
+    - jkim
+    - dluebke
+    - amazumdar
+    - swang
+    - mjaiswal
+
+# 2022
 - id: holographic_glasses_vr
   title: "Holographic Glasses for Virtual Reality"
   venue: SIGGRAPH Technical Papers, 2022
@@ -47,6 +87,7 @@
     - motoole
     - gwetzstein
 
+# 2021
 - id: unfiltered_holography
   title: "Unfiltered holography: optimizing high diffraction orders without optical filtering for compact holographic displays"
   venue: Optics Letters, 2021
@@ -105,6 +146,7 @@
     - ypeng
     - gwetzstein
 
+# 2020
 - id: prescription_ar
   title: "Prescription AR: a fully-customized prescription-embedded augmented reality display"
   venue: Optics Express, 2020
@@ -117,6 +159,21 @@
     - jywu
     - jkim
 
+- id: neural_holography_2020
+  title: "Neural holography"
+  venue: SIGGRAPH Emerging Technologies, 2020
+  description: "Neural holography approach for computer-generated holographic displays with camera-in-the-loop training."
+  project_page: https://www.computationalimaging.org/publications/neuralholography/
+  arxiv: 
+  image: neural_holography_2020/olas_feature_small.jpg
+  image_mouseover: 
+  authors:
+    - ypeng
+    - schoi
+    - jkim
+    - gwetzstein
+
+# 2019
 - id: foveated_ar
   title: "Foveated AR: Dynamically-Foveated Augmented Reality Display"
   venue: SIGGRAPH Technical Papers, 2019
@@ -140,96 +197,6 @@
     - jspjut
     - mmcguire
     - dluebke
-
-- id: large_etendue_holographic
-  title: "Large Étendue 3D Holographic Display with Content-adpative Dynamic Fourier Modulation"
-  venue: SIGGRAPH Asia Technical Papers, 2024
-  description: "A large étendue 3D holographic display system with content-adaptive dynamic Fourier modulation."
-  project_page: https://bchao1.github.io/holo_dfm/
-  arxiv: 
-  image: large_etendue_holographic/large.PNG
-  image_mouseover: 
-  authors:
-    - bchao
-    - mgopakumar
-    - schoi
-    - lshi
-    - jkim
-    - gwetzstein
-
-- id: ai_mediated_3d_conferencing
-  title: "AI-Mediated 3D Video Conferencing"
-  venue: SIGGRAPH Emerging Technologies, 2023
-  description: "AI-mediated system for 3D video conferencing applications."
-  project_page: https://research.nvidia.com/labs/nxp/3dvc-siggraph-etech/
-  arxiv: 
-  image: ai_mediated_3d_conferencing/header_img.png
-  image_mouseover: 
-  authors:
-    - mstengel
-    - knagano
-    - cliu
-    - mchan
-    - atrevithick
-    - sdemello
-    - jkim
-    - dluebke
-    - amazumdar
-    - swang
-    - mjaiswal
-
-# - id: high_quality_holographic_displays
-#   title: "High-quality Holographic Displays Using Double SLMs"
-#   venue: SPIE Photonics West Optical Architectures Conference, 2021
-#   description: "High-quality holographic display system using double spatial light modulators."
-#   project_page: 
-#   arxiv: 
-#   image: 
-#   image_mouseover: 
-#   authors:
-#     - mgopakumar
-#     - jkim
-#     - schoi
-#     - ypeng
-#     - gwetzstein
-
-- id: neural_holography_2020
-  title: "Neural holography"
-  venue: SIGGRAPH Emerging Technologies, 2020
-  description: "Neural holography approach for computer-generated holographic displays with camera-in-the-loop training."
-  project_page: https://www.computationalimaging.org/publications/neuralholography/
-  arxiv: 
-  image: neural_holography_2020/olas_feature_small.jpg
-  image_mouseover: 
-  authors:
-    - ypeng
-    - schoi
-    - jkim
-    - gwetzstein
-
-# - id: foveated_display_classification
-#   title: "Toward Standardized Classification of Foveated Displays"
-#   venue: IEEE Transactions on Visualization, 2020
-#   description: "Standardized classification framework for foveated display systems."
-#   project_page: 
-#   arxiv: 
-#   image: 
-#   image_mouseover: 
-#   authors:
-#     - jkim
-#     - yjeong
-#     - mstengel
-#     - kaksit
-#     - ralbert
-#     - bboudaoud
-#     - tgreer
-#     - jkim2
-#     - wlopes
-#     - zmajercik
-#     - pshirley
-#     - jspjut
-#     - mmcguire
-#     - dluebke
 
 - id: matching_prescription_2019
   title: "Matching Prescription & Visual Acuity: Towards AR for Humans"
@@ -256,6 +223,7 @@
     - mmcguire
     - dluebke
 
+# 2017
 - id: near_eye_varifocal_ar
   title: "Near-eye varifocal augmented reality display using see-through screens"
   venue: SIGGRAPH Asia Technical Papers, 2017
