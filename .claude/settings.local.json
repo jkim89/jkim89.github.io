@@ -7,7 +7,8 @@
       "WebFetch(domain:www.computationalimaging.org)",
       "WebFetch(domain:research.nvidia.com)",
       "Bash(curl:*)",
-      "WebFetch(domain:bchao1.github.io)"
+      "WebFetch(domain:bchao1.github.io)",
+      "WebFetch(domain:scholar.google.com)"
     ],
     "deny": [],
     "ask": []
