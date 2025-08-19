@@ -4,7 +4,7 @@
   description: "A near-eye display design that pairs inverse-designed metasurface waveguides with AI-driven holographic displays to enable full-colour 3D augmented reality from a compact glasses-like form factor."
   project_page: https://www.computationalimaging.org/publications/holographicar/ 
   arxiv: 
-  image: images/holographic_ar_nature/ARglasses_mannequin.jpg
+  image: holographic_ar_nature/ARglasses_mannequin.jpg
   image_mouseover: 
   authors:
     - mgopakumar
@@ -21,7 +21,7 @@
   description: "Holographic Glasses is a holographic near-eye display system with an eyeglasses-like form factor for virtual reality. The proposed design can deliver full-color 3D holographic images using an optical stack of 2.5 mm thickness."
   project_page: https://www.computationalimaging.org/publications/holographic-glasses/
   arxiv: 
-  image: images/holographic_glasses_vr/holographic_glasses.jpg
+  image: holographic_glasses_vr/holographic_glasses.jpg
   image_mouseover: 
   authors:
     - jkim
@@ -37,7 +37,7 @@
   description: "A flexible framework for holographic displays that enables fast frame rates with heavily quantized spatial light modulators."
   project_page: https://www.computationalimaging.org/publications/time-multiplexed-neural-holography/
   arxiv: 
-  image: images/time_multiplexed_neural/tmnh_3d.gif
+  image: time_multiplexed_neural/tmnh_3d.gif
   image_mouseover: 
   authors:
     - schoi
@@ -53,7 +53,7 @@
   description: "Optimization of high diffraction orders without optical filtering for compact holographic displays."
   project_page: https://www.computationalimaging.org/publications/unfilteredholography/
   arxiv: 
-  image: images/unfiltered_holography/HOGD_capture_1.png
+  image: unfiltered_holography/HOGD_capture_1.png
   image_mouseover: 
   authors:
     - mgopakumar
@@ -68,7 +68,7 @@
   description: "Achieving unprecedented holographic image quality with better computation using camera-in-the-loop training."
   project_page: https://www.computationalimaging.org/publications/partiallycoherentholography/
   arxiv: 
-  image: images/speckle_free/spe.PNG
+  image: speckle_free/spe.PNG
   image_mouseover: 
   authors:
     - ypeng
@@ -82,7 +82,7 @@
   description: "Learning accurate wave propagation models for 3D holographic displays using neural networks."
   project_page: https://www.computationalimaging.org/publications/neuralholography3d/
   arxiv: 
-  image: images/neural_3d_holography/Capture.PNG
+  image: neural_3d_holography/Capture.PNG
   image_mouseover: 
   authors:
     - schoi
@@ -97,7 +97,7 @@
   description: "Optimizing image quality for holographic near-eye displays using Michelson holography techniques."
   project_page: https://www.computationalimaging.org/publications/michelsonholography/
   arxiv: 
-  image: images/michelson_holography/MH_Thumbnail.jpg
+  image: michelson_holography/MH_Thumbnail.jpg
   image_mouseover: 
   authors:
     - schoi
@@ -111,7 +111,7 @@
   description: "A fully-customized AR display design that considers the user's prescription, interpupillary distance, and taste of fashion. A free-form image combiner embedded inside the prescription lens provides augmented images."
   project_page: https://research.nvidia.com/publication/2020-03_prescription-ar-fully-customized-prescription-embedded-augmented-reality
   arxiv: 
-  image: images/prescription_ar/prescription_ar_paper.PNG
+  image: prescription_ar/prescription_ar_paper.PNG
   image_mouseover: 
   authors:
     - jywu
@@ -123,7 +123,7 @@
   description: "AR display system that advances the state of the art for simultaneous wide FOV (100° diagonal), compact form factor, high foveal resolution (60 cpd), variable focus display and rendering, and large eyebox (12 mm × 8 mm)."
   project_page: https://research.nvidia.com/publication/2019-07_foveated-ar-dynamically-foveated-augmented-reality-display
   arxiv: 
-  image: images/foveated_ar/foveated_ar_thumbnail.PNG
+  image: foveated_ar/foveated_ar_thumbnail.PNG
   image_mouseover: 
   authors:
     - jkim
@@ -147,7 +147,7 @@
   description: "A large étendue 3D holographic display system with content-adaptive dynamic Fourier modulation."
   project_page: https://bchao1.github.io/holo_dfm/
   arxiv: 
-  image: images/large_etendue_holographic/large.PNG
+  image: large_etendue_holographic/large.PNG
   image_mouseover: 
   authors:
     - bchao
@@ -163,7 +163,7 @@
   description: "AI-mediated system for 3D video conferencing applications."
   project_page: https://research.nvidia.com/labs/nxp/3dvc-siggraph-etech/
   arxiv: 
-  image: images/ai_mediated_3d_conferencing/header_img.png
+  image: ai_mediated_3d_conferencing/header_img.png
   image_mouseover: 
   authors:
     - mstengel
@@ -199,7 +199,7 @@
   description: "Neural holography approach for computer-generated holographic displays with camera-in-the-loop training."
   project_page: https://www.computationalimaging.org/publications/neuralholography/
   arxiv: 
-  image: images/neural_holography_2020/olas_feature_small.jpg
+  image: neural_holography_2020/olas_feature_small.jpg
   image_mouseover: 
   authors:
     - ypeng
@@ -237,7 +237,7 @@
   description: "Matching prescription and visual acuity for augmented reality displays. Best in Show Award winner."
   project_page: https://research.nvidia.com/publication/2019-07_matching-prescription-visual-acuity-towards-ar-humans
   arxiv: 
-  image: images/matching_prescription_2019/prescription_ar.PNG
+  image: matching_prescription_2019/prescription_ar.PNG
   image_mouseover: 
   authors:
     - jkim
@@ -262,7 +262,7 @@
   description: "Near-eye varifocal augmented reality display system using see-through screens."
   project_page: https://research.nvidia.com/publication/2017-11_near-eye-varifocal-augmented-reality-display-using-see-through-screens
   arxiv: 
-  image: images/near_eye_varifocal_ar/varifocal_paper_thumbnail.PNG
+  image: near_eye_varifocal_ar/varifocal_paper_thumbnail.PNG
   image_mouseover: 
   authors:
     - kaksit
@@ -277,7 +277,7 @@
   description: "Mixed-primary factorization technique for dual-frame computational displays."
   project_page: https://research.nvidia.com/publication/2017-07_mixed-primary-factorization-dual-frame-computational-displays
   arxiv: 
-  image: images/mixed_primary_factorization/MP_thumb_0.png
+  image: mixed_primary_factorization/MP_thumb_0.png
   image_mouseover: 
   authors:
     - fchuang
@@ -292,7 +292,7 @@
   description: "A novel optical layout for near-eye varifocal display technology."
   project_page: https://research.nvidia.com/publication/2017-07_varifocal-virtuality-novel-optical-layout-near-eye-display
   arxiv: 
-  image: images/varifocal_virtuality/varifocal_etech_thumbnail.PNG
+  image: varifocal_virtuality/varifocal_etech_thumbnail.PNG
   image_mouseover: 
   authors:
     - kaksit
@@ -307,7 +307,7 @@
   description: "Retinal 3D provides virtual images with focus cues by generating a localized light field around the pupil position with real-time eye-tracking."
   project_page: http://oeqelab.snu.ac.kr/retinal3d
   arxiv: 
-  image: images/retinal_3d/retinal3d_tn.PNG
+  image: retinal_3d/retinal3d_tn.PNG
   image_mouseover: 
   authors:
     - cjang
