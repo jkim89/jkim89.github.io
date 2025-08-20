@@ -28,8 +28,8 @@
     - bchao
     - mgopakumar
     - schoi
-    - lshi
     - jkim
+    - lshi
     - gwetzstein
 
 # 2023
@@ -230,7 +230,7 @@
   description: "See-through optical combiner design using index-matched anisotropic crystal lens for AR head-mounted displays."
   project_page: 
   arxiv: 
-  image: 
+  image: see_through_optical_combiner/seethrough-thumbnail.PNG
   image_mouseover: 
   authors:
     - jongyounghong
@@ -311,7 +311,7 @@
   description: "Signal enhanced guide-star reconstruction method for holographic fluorescence microscopy using incoherent digital holography."
   project_page: 
   arxiv: 
-  image: 
+  image: signal_enhanced_holographic_microscopy/sidh_.PNG
   image_mouseover: 
   authors:
     - cjang
@@ -326,7 +326,7 @@
   description: "F-number matching method for light field microscopy using elastic micro lens arrays to improve optical performance."
   project_page: 
   arxiv: 
-  image: 
+  image: f_number_matching_light_field/fnumber.PNG
   image_mouseover: 
   authors:
     - jkim
@@ -346,7 +346,7 @@
   description: "Real-time in vivo 3D observation method combining high-resolution light-field microscopy with light-field display technology."
   project_page: 
   arxiv: 
-  image: 
+  image: dual_dimensional_microscopy/ddm.PNG
   image_mouseover: 
   authors:
     - yjeong
@@ -361,7 +361,7 @@
   description: "Novel stereoacuity testing method using 3D display systems for pediatric clinical applications."
   project_page: 
   arxiv: 
-  image: 
+  image: new_stereoacuity_test_3d/randot.PNG
   image_mouseover: 
   authors:
     - sbhan
@@ -377,7 +377,7 @@
   description: "A glasses-free stereoacuity test using 3D display technology for clinical applications."
   project_page: 
   arxiv: 
-  image: 
+  image: glasses_free_randot_stereotest/glasses_free_randot.PNG
   image_mouseover: 
   authors:
     - jkim
@@ -394,7 +394,7 @@
   description: "A dual-mode mobile 3D display system with reduced crosstalk for improved viewing experience."
   project_page: 
   arxiv: 
-  image: 
+  image: crosstalk_reduced_dual_mode/dual-mode.PNG
   image_mouseover: 
   authors:
     - jkim
@@ -414,7 +414,7 @@
   description: "Real-time integral imaging system for light field microscopy applications with enhanced temporal resolution."
   project_page: 
   arxiv: 
-  image: 
+  image: real_time_integral_imaging_microscopy/real-time-lfm.PNG
   image_mouseover: 
   authors:
     - jkim
@@ -429,7 +429,7 @@
   description: "Tunable focal length liquid crystal lens array for adaptive optical applications."
   project_page: 
   arxiv: 
-  image: 
+  image: liquid_crystal_square_lens/lc_lens.PNG
   image_mouseover: 
   authors:
     - jkim
@@ -445,7 +445,7 @@
   description: "Hogel overlapping method for holographic printers to enhance lateral resolution using volume hologram multiplexing properties."
   project_page: 
   arxiv: 
-  image: 
+  image: resolution_enhancement_holographic_printer/holographic_printer.PNG
   image_mouseover: 
   authors:
     - keehoonhong
@@ -467,7 +467,7 @@
   description: "Real-time capturing and 3D visualization system using integral imaging for dynamic scene reconstruction."
   project_page: 
   arxiv: 
-  image: 
+  image: real_time_capturing_3d_visualization/getThumbnail.jpg
   image_mouseover: 
   authors:
     - jkim
@@ -482,13 +482,13 @@
   description: "Full-color anaglyph 3D display system with active color filter glasses for enhanced viewing experience."
   project_page: 
   arxiv: 
-  image: 
+  image: full_color_anaglyph_3d_display/veryfirst.PNG
   image_mouseover: 
   authors:
     - jkim
-    - youngminkim
+    - younghoonkim
     - jisoohong
-    - gunheepark
+    - gilbaepark
     - keehoonhong
     - swmin
     - blee
