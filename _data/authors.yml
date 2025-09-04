@@ -424,3 +424,23 @@ uinchung:
   first_name: U-in
   last_name: Chung
   website: ""
+
+csun:
+  first_name: Cheng
+  last_name: Sun
+  website: "https://sunset1995.github.io/"
+
+arussell:
+  first_name: Andrew
+  last_name: Russell
+  website: ""
+
+jjung:
+  first_name: Jaehyun
+  last_name: Jung
+  website: "https://www.jjunglab.com/"
+
+wbraithwaite:
+  first_name: Wil
+  last_name: Braithwaite
+  website: ""
