@@ -24,7 +24,7 @@
   description: "A system that enables users to capture their facial images using a single 2D camera and visualize them in 3D in real time using triplane-based NeRF encoder and fast volumetric rendering on light field displays."
   project_page: 10.1002/sdtp.18377
   arxiv: 
-  image: ai_3d_selfie_sid/capture.png
+  image: ai_3d_selfie_sid/capture.PNG
   image_mouseover: 
   authors:
     - jkim
