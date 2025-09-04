@@ -11,7 +11,9 @@
       "WebFetch(domain:scholar.google.com)",
       "WebSearch",
       "WebSearch",
-      "WebFetch(domain:www.tandfonline.com)"
+      "WebFetch(domain:www.tandfonline.com)",
+      "WebFetch(domain:arxiv.org)",
+      "Bash(mkdir:*)"
     ],
     "deny": [],
     "ask": []

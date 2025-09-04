@@ -1,3 +1,16 @@
+- id: radiance-fields-lightfield-2025
+  title: "Real-time 3D Visualization of Radiance Fields on Light Field Displays"
+  organization: "NVIDIA"
+  date: "August 2024"
+  # description: "Real-time radiance field visualization on light field displays achieving 200+ FPS at 512p across 45 views for seamless 3D interaction."
+  url: "https://arxiv.org/abs/2508.18540"
+  image: "radiance_fields_lightfield.jpg"
+  video: "radiance_fields_lightfield.mp4"
+  tags:
+    - "Radiance Fields"
+    - "Light Field Displays"
+    - "Real-time Rendering"
+
 - id: holographic-ar-nature-2024
   title: "Holographic AR Glasses with Metasurface Waveguides"
   organization: "NVIDIA & Stanford"
@@ -10,6 +23,19 @@
     - "Holographic Displays"
     - "Augmented Reality"
     - "Metasurfaces"
+
+- id: ai-mediated-3d-conferencing-2023
+  title: "AI-Mediated 3D Video Conferencing"
+  organization: "NVIDIA"
+  date: "July 2023"
+  # description: "AI-mediated system for 3D video conferencing applications."
+  url: "https://research.nvidia.com/labs/nxp/3dvc-siggraph-etech/"
+  image: "ai_mediated_3d_conferencing.jpg"
+  video: "ai_mediated_3d_conferencing.mp4"
+  tags:
+    - "3D Video Conferencing"
+    - "AI Systems"
+    - "Real-time Processing"
 
 - id: holographic-glasses-vr-2022
   title: "Holographic Glasses for Virtual Reality - 2.5 mm-thick, 3D holographic VR display"

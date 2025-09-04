@@ -1,4 +1,23 @@
 # 2024
+- id: radiance_fields_lightfield_displays
+  title: "Real-time 3D Visualization of Radiance Fields on Light Field Displays"
+  venue: arXiv preprint, 2024
+  description: "Real-time radiance field visualization on light field displays achieving 200+ FPS at 512p across 45 views for seamless 3D interaction."
+  project_page: 
+  arxiv: 2508.18540
+  image: radiance_fields_lightfield_displays/main_figure.jpg
+  image_mouseover: 
+  authors:
+    - jkim
+    - csun
+    - mstengel
+    - mchan
+    - arussell
+    - jjung
+    - wbraithwaite
+    - sdemello
+    - dluebke
+
 - id: holographic_ar_nature
   title: "Full-colour 3D holographic augmented-reality displays with metasurface waveguides"
   venue: Nature, 2024
