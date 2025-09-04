@@ -377,17 +377,18 @@
 # 2015
 - id: dual_dimensional_microscopy
   title: "Dual-dimensional microscopy: real-time in vivo three-dimensional observation method using high-resolution light-field microscopy and light-field display"
-  venue: Scientific Reports, 2015
+  venue: Journal of Biomedical Optics, 2018
   description: "Real-time in vivo 3D observation method combining high-resolution light-field microscopy with light-field display technology."
-  project_page: 
+  project_page: https://doi.org/10.1117/1.JBO.23.6.066502
   arxiv: 
   image: dual_dimensional_microscopy/ddm.PNG
   image_mouseover: 
   authors:
-    - yjeong
-    - keehoonhong
     - jkim
-    - changkunlee
+    - smoon
+    - yjeong
+    - cjang
+    - youngminkim
     - blee
 
 - id: new_stereoacuity_test_3d
