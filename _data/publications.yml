@@ -17,6 +17,22 @@
     - wbraithwaite
     - sdemello
     - dluebke
+
+- id: ai_3d_selfie_sid
+  title: "AI 3D Selfie: Real-time Single-Image 3D Face Reconstruction for Light Field Displays"
+  venue: SID Symposium Digest of Technical Papers, 2025
+  description: "A system that enables users to capture their facial images using a single 2D camera and visualize them in 3D in real time using triplane-based NeRF encoder and fast volumetric rendering on light field displays."
+  project_page: 10.1002/sdtp.18377
+  arxiv: 
+  image: ai_3d_selfie_sid/capture.png
+  image_mouseover: 
+  authors:
+    - jkim
+    - mstengel
+    - mchan
+    - knagano
+    - sdemello
+    - dluebke
 # 2024
 - id: holographic_ar_nature
   title: "Full-colour 3D holographic augmented-reality displays with metasurface waveguides"

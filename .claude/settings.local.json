@@ -13,7 +13,8 @@
       "WebSearch",
       "WebFetch(domain:www.tandfonline.com)",
       "WebFetch(domain:arxiv.org)",
-      "Bash(mkdir:*)"
+      "Bash(mkdir:*)",
+      "WebFetch(domain:sid.onlinelibrary.wiley.com)"
     ],
     "deny": [],
     "ask": []
