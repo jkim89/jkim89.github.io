@@ -98,6 +98,9 @@ layout: null
       <div class="publication-block columns">
 
         <div class="column is-2">
+          {% if publication.project_page %}
+          <a href="{{ publication.project_page }}" target="_blank" rel="noopener">
+          {% endif %}
           <div class="publication-image {% if publication.image_mouseover %}publication-mousecell{% endif %}">
             {% if publication.image_mouseover contains "mp4" %}
             <video autoplay preload playsinline class="" height="100%" loop muted width="100%">
@@ -107,6 +110,9 @@ layout: null
             {% endif %}
             <img alt="{{ publication.title }}" src="./images/{{ publication.image }}" />
           </div>
+          {% if publication.project_page %}
+          </a>
+          {% endif %}
         </div>
 
         <div class="column">
@@ -133,16 +139,6 @@ layout: null
                   {% endfor %}
             </div>
             <p class="publication-description">{{ publication.description }}</p>
-            <!-- Publication Links. -->
-            {% if publication.project_page %}
-            <div class="publication-links buttons field has-addons">
-              <a class="external-link button is-small is-ghost" href="{{ publication.project_page }}">
-                <span class="icon"><i class="fas fa-globe-asia"></i></span>
-                <span>Project Page</span>
-              </a>
-            </div>
-            {% endif %}
-            <!--/ Publication Links. -->
           </div>
         </div>
       </div>
