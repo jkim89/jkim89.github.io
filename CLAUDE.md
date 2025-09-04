@@ -233,6 +233,59 @@ The site uses Google Fonts (Google Sans, Noto Sans) and integrates Font Awesome 
    - Cross-referenced author information with authoritative journal sources
    - Established reliable verification process for future updates
 
+### Major UI/UX Overhaul (2025-01-04 Session)
+
+1. **Highlights Section Evolution and Removal**
+   - ✅ Initially added 2 new papers to highlights: "Real-time 3D Visualization of Radiance Fields" (arXiv 2024) and "AI-mediated 3D Video Conferencing" (2023)
+   - ✅ Updated highlights layout from 3-column to 4-column grid (4 items per row, 2 rows total)
+   - ✅ **FINAL DECISION**: Complete removal of highlights section for cleaner, publication-focused design
+   - **Future Planning**: Consider adding demos/talks videos section in former highlights location
+
+2. **New Publications Added**
+   - ✅ "Real-time 3D Visualization of Radiance Fields on Light Field Displays" (arXiv:2508.18540, 2024)
+     - Added to both publications.yml and highlights initially
+     - Added missing authors: csun, arussell, jjung, wbraithwaite
+   - ✅ "AI 3D Selfie: Real-time Single-Image 3D Face Reconstruction for Light Field Displays" (SID 2025, DOI:10.1002/sdtp.18377)
+     - Extracted information from PDF document provided by user
+     - Created image folder structure for both new papers
+
+3. **Publication Display Simplification**
+   - ✅ **Phase 1**: Removed arXiv and PDF buttons, kept only Project Page button
+   - ✅ **Phase 2**: Removed all buttons completely for ultra-clean design
+   - ✅ **Final Implementation**: Made both publication titles AND images clickable to project pages
+   - ✅ Images open project pages in new tabs for better user experience
+
+4. **Site Navigation Updates**
+   - ✅ Updated GitHub link to https://github.com/jkim89
+   - ✅ Removed Twitter button (acknowledged as outdated social platform)
+   - ✅ Maintained CV, Google Scholar, and GitHub buttons only
+
+5. **Technical Corrections Made**
+   - ✅ Fixed dual-dimensional microscopy paper metadata:
+     - Venue: Scientific Reports 2015 → Journal of Biomedical Optics 2018
+     - Added proper DOI project page
+     - Corrected author list and order
+   - ✅ Fixed image file extension case sensitivity (capture.png → capture.PNG)
+
+### Design Philosophy Decisions Made
+
+1. **Minimalist Approach Adopted**
+   - Removed highlights section entirely for focus on publications
+   - Eliminated all publication action buttons
+   - Simplified click interactions to title/image only
+   - Maintained clean, academic professional appearance
+
+2. **User Experience Improvements**
+   - Publication images now clickable (major usability improvement)
+   - Consistent new-tab opening behavior for external links
+   - Reduced cognitive load with fewer buttons and cleaner layout
+   - Preserved all functionality while simplifying interface
+
+3. **Future Development Considerations**
+   - Former highlights section space available for demos/talks videos
+   - Site structure ready for multimedia content addition
+   - Maintained flexible YAML data structure for easy content updates
+
 ### Common Pitfalls to Avoid
 
 1. Don't assume author lists - always verify from primary sources

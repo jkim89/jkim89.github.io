@@ -32,8 +32,7 @@ description: |
   My research interests include Near-eye Displays, Holographic Displays, Light Field Displays, and Computational Displays.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://research.nvidia.com/person/jonghyun-kim/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
-github_username: 
+github_username: jkim89 
 google_scholar: QKsqzVEAAAAJ
 google_analytics: G-MFWSBLRKG0
 
