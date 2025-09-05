@@ -263,7 +263,7 @@
   title: "See-through optical combiner for augmented reality head-mounted display: index-matched anisotropic crystal lens"
   venue: Scientific Reports, 2017
   description: "See-through optical combiner design using index-matched anisotropic crystal lens for AR head-mounted displays."
-  project_page: 
+  project_page: https://doi.org/10.1038/s41598-017-03117-w
   arxiv: 
   image: see_through_optical_combiner/seethrough-thumbnail.PNG
   image_mouseover: 
@@ -344,7 +344,7 @@
   title: "Signal enhanced holographic fluorescence microscopy with guide-star reconstruction"
   venue: Biomedical Optics Express, 2016
   description: "Signal enhanced guide-star reconstruction method for holographic fluorescence microscopy using incoherent digital holography."
-  project_page: 
+  project_page: https://doi.org/10.1364/BOE.7.001271
   arxiv: 
   image: signal_enhanced_holographic_microscopy/sidh_.PNG
   image_mouseover: 
@@ -396,7 +396,7 @@
   title: "New stereoacuity test using a 3-dimensional display system in children"
   venue: PLoS One, 2015
   description: "Novel stereoacuity testing method using 3D display systems for pediatric clinical applications."
-  project_page: 
+  project_page: https://doi.org/10.1371/journal.pone.0116626
   arxiv: 
   image: new_stereoacuity_test_3d/randot.PNG
   image_mouseover: 
@@ -412,7 +412,7 @@
   title: "Glasses-free randot stereotest"
   venue: Journal of Biomedical Optics, 2015
   description: "A glasses-free stereoacuity test using 3D display technology for clinical applications."
-  project_page: 
+  project_page: https://doi.org/10.1117/1.JBO.20.6.065004
   arxiv: 
   image: glasses_free_randot_stereotest/glasses_free_randot.PNG
   image_mouseover: 
@@ -449,7 +449,7 @@
   title: "Real-time integral imaging system for light field microscopy"
   venue: Optics Express, 2014
   description: "Real-time integral imaging system for light field microscopy applications with enhanced temporal resolution."
-  project_page: 
+  project_page: https://doi.org/10.1364/OE.22.010210
   arxiv: 
   image: real_time_integral_imaging_microscopy/real-time-lfm.PNG
   image_mouseover: 
@@ -480,7 +480,7 @@
   title: "Resolution enhancement of holographic printer using a hogel overlapping method"
   venue: Optics Express, 2013
   description: "Hogel overlapping method for holographic printers to enhance lateral resolution using volume hologram multiplexing properties."
-  project_page: 
+  project_page: https://doi.org/10.1364/OE.21.014047
   arxiv: 
   image: resolution_enhancement_holographic_printer/holographic_printer.PNG
   image_mouseover: 
@@ -502,7 +502,7 @@
   title: "Real-time capturing and 3D visualization method based on integral imaging"
   venue: Optics Express, 2013
   description: "Real-time capturing and 3D visualization system using integral imaging for dynamic scene reconstruction."
-  project_page: 
+  project_page: https://doi.org/10.1364/OE.21.018742
   arxiv: 
   image: real_time_capturing_3d_visualization/getThumbnail.jpg
   image_mouseover: 

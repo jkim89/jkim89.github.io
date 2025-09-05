@@ -1,7 +1,7 @@
 - id: radiance-fields-lightfield-2025
   title: "Real-time 3D Visualization of Radiance Fields on Light Field Displays"
   organization: "NVIDIA"
-  date: "August 2024"
+  date: "August 2025"
   # description: "Real-time radiance field visualization on light field displays achieving 200+ FPS at 512p across 45 views for seamless 3D interaction."
   url: "https://arxiv.org/abs/2508.18540"
   image: "radiance_fields_lightfield.jpg"
