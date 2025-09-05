@@ -360,6 +360,11 @@ gunheepark:
   last_name: Park
   website: ""
 
+gilbaepark:
+  first_name: Gilbae
+  last_name: Park
+  website: ""
+
 swmin:
   first_name: Sung-Wook
   last_name: Min
@@ -443,4 +448,49 @@ jjung:
 wbraithwaite:
   first_name: Wil
   last_name: Braithwaite
+  website: ""
+
+hyungjinkim:
+  first_name: Hyungjin
+  last_name: Kim
+  website: ""
+
+byeongmoonlee:
+  first_name: Byeongmoon
+  last_name: Lee
+  website: ""
+
+yongtaekhong:
+  first_name: Yongtaek
+  last_name: Hong
+  website: ""
+
+jiyoonkim:
+  first_name: Jiyoon
+  last_name: Kim
+  website: ""
+
+sindoolee:
+  first_name: Sin-Doo
+  last_name: Lee
+  website: ""
+
+junheena:
+  first_name: Jun-Hee
+  last_name: Na
+  website: ""
+
+wonkilee:
+  first_name: Wonki
+  last_name: Lee
+  website: ""
+
+youngculshin:
+  first_name: Yoon-Cheol
+  last_name: Shin
+  website: ""
+
+junghoonyoon:
+  first_name: Jung-Hoon
+  last_name: Yoon
   website: ""

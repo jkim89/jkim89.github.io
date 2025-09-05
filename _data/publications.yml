@@ -359,20 +359,21 @@
   title: "F-number matching method in light field microscopy using an elastic micro lens array"
   venue: Optics Letters, 2016
   description: "F-number matching method for light field microscopy using elastic micro lens arrays to improve optical performance."
-  project_page: 
-  arxiv: 
+  project_page: https://opg.optica.org/ol/abstract.cfm?uri=ol-41-12-2751
+  arxiv: 10.1364/OL.41.002751
   image: f_number_matching_light_field/fnumber.PNG
   image_mouseover: 
   authors:
     - jkim
     - yjeong
-    - hkim
+    - hyungjinkim
     - changkunlee
-    - blee
-    - jongyounghong
+    - byeongmoonlee
+    - jisoohong
     - youngminkim
-    - youngcheolhong
-    - seungdeoklee
+    - yongtaekhong
+    - sindoolee
+    - blee
 
 # 2015
 - id: dual_dimensional_microscopy
@@ -428,8 +429,8 @@
   title: "Crosstalk-reduced dual-mode mobile 3D display"
   venue: Journal of Display Technology, 2015
   description: "A dual-mode mobile 3D display system with reduced crosstalk for improved viewing experience."
-  project_page: 
-  arxiv: 
+  project_page: https://opg.optica.org/jdt/abstract.cfm?uri=jdt-11-1-97
+  arxiv: 10.1109/JDT.2014.2361147
   image: crosstalk_reduced_dual_mode/dual-mode.PNG
   image_mouseover: 
   authors:
@@ -438,9 +439,9 @@
     - yjeong
     - cjang
     - jongyounghong
-    - wlee
-    - ycshin
-    - jjhyoon
+    - wonkilee
+    - youngculshin
+    - junghoonyoon
     - blee
 
 # 2014
@@ -463,16 +464,16 @@
   title: "Liquid crystal-based square lens array with tunable focal length"
   venue: Optics Express, 2014
   description: "Tunable focal length liquid crystal lens array for adaptive optical applications."
-  project_page: 
-  arxiv: 
+  project_page: https://opg.optica.org/oe/fulltext.cfm?uri=oe-22-3-3316&id=279210
+  arxiv: 10.1364/OE.22.003316
   image: liquid_crystal_square_lens/lc_lens.PNG
   image_mouseover: 
   authors:
+    - jiyoonkim
     - jkim
-    - joonhyukkim
-    - jinhyeongna
+    - junheena
     - blee
-    - seungdeoklee
+    - sindoolee
 
 # 2013
 - id: resolution_enhancement_holographic_printer
@@ -516,7 +517,7 @@
   title: "A full-color anaglyph three-dimensional display system using active color filter glasses"
   venue: Journal of Information Display, 2011
   description: "Full-color anaglyph 3D display system with active color filter glasses for enhanced viewing experience."
-  project_page: 
+  project_page: https://doi.org/10.1080/15980316.2011.555514
   arxiv: 
   image: full_color_anaglyph_3d_display/veryfirst.PNG
   image_mouseover: 

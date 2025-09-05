@@ -14,7 +14,10 @@
       "WebFetch(domain:www.tandfonline.com)",
       "WebFetch(domain:arxiv.org)",
       "Bash(mkdir:*)",
-      "WebFetch(domain:sid.onlinelibrary.wiley.com)"
+      "WebFetch(domain:sid.onlinelibrary.wiley.com)",
+      "WebFetch(domain:opg.optica.org)",
+      "WebFetch(domain:doi.org)",
+      "WebFetch(domain:www.researchgate.net)"
     ],
     "deny": [],
     "ask": []
